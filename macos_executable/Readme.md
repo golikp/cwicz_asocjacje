@@ -1,1 +1,1 @@
-Executable compiled for 64 bid macOS (intel)
+Executable compiled for 64 bit macOS (intel)
